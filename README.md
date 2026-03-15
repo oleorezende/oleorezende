@@ -24,3 +24,15 @@ Tenho experiência com organização e análise de dados, monitoramento de indic
   <a href="https://www.linkedin.com/in/oleonardorezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
 </div>
+
+<!-- skill -->
+  <tr>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+      <td align="center" width="90">
+    <img src="./icons/sql.png" height="45" >
+    <br>Ton
+  </tr>
