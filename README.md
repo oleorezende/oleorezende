@@ -1,8 +1,8 @@
-## Oi, eu sou o Leonardo Rezende
+## Oi, eu sou o Leonardo Rezende!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorezende&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorezende&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
