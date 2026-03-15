@@ -6,8 +6,9 @@
 Tenho experiência com organização e análise de dados, monitoramento de indicadores e apoio à tomada de decisão baseada em dados.
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorezende&layout=compact&langs_count=16&theme=dark"/>
+</div>
 </div>
 
 <div style="display: inline_block"><br>
