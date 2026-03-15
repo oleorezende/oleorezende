@@ -9,30 +9,34 @@ Tenho experiência com organização e análise de dados, monitoramento de indic
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorezende&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Leo-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-</div>
+## 💻 Linguagens e Ferramentas
+
+<!-- skill -->
+<table>
+<tr>
+  <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/>
+    <br>Python
+  </td>
+
+  <td align="center" width="90">
+    <img src="./icon/database.png" height="45"/>
+    <br>SQL
+  </td>
+
+  <td align="center" width="90">
+    <img src="./icon/pandas.png" height="45"/>
+    <br>Pandas
+  </td>
+</tr>
+</table>
 
 ##
 
 <div> 
 <a href = "mailto:engleonardorezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oleonardorezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</a>
+<a href="https://www.linkedin.com/in/oleonardorezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<!-- skill -->
-  <tr>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-      <td align="center" width="90">
-    <img src="./icons/sql.png" height="45" >
-    <br>Ton
-  </tr>
