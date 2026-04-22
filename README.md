@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Leonardo Rezende 👋
 
 📊 Profissional com experiência em análise de dados comerciais e criação de dashboards em Excel e Power BI.  
+
 🐍 Atualmente focado no desenvolvimento de habilidades em Python, SQL e Pandas para análise de dados.
 
 Tenho experiência com organização e análise de dados, monitoramento de indicadores e apoio à tomada de decisão baseada em dados.
