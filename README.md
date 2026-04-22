@@ -33,7 +33,7 @@ Tenho experiência com organização e análise de dados, monitoramento de indic
     <br>Pandas
   </td>
   <td align="center" width="90">
-    <img src="./icon/power-bi.png" height="45"/>
+    <img src="./icon/power-bi1.png" height="45"/>
     <br>Power BI
   </td>
   
