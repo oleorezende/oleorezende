@@ -1,15 +1,23 @@
 ## Olá! Eu sou o Leonardo Rezende 👋
 
-📊 Profissional com experiência em análise de dados comerciais e criação de dashboards em Excel e Power BI.  
+📊 Analista de Dados, com experiência em análise de dados comerciais e criação de dashboards em Excel e Power BI.  
 
-🐍 Atualmente focado no desenvolvimento de habilidades em Python, SQL e Pandas para análise de dados.
+🐍 Focado em transformar dados em insights para tomada de decisão, com desenvolvimento contínuo em Python, SQL e Pandas.
 
 Tenho experiência com organização e análise de dados, monitoramento de indicadores e apoio à tomada de decisão baseada em dados.
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleorezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorezende&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+## 📂 Projetos em Destaque
+
+🔹 Dashboard de E-commerce — Power BI
+
+Análise de receita, pedidos, ticket médio e avaliação
+Identificação de produtos e categorias mais rentáveis
+Criação de visão executiva para apoio à tomada de decisão
+
+🔗 Acesse o projeto:
+https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis
 
 </div>
 
