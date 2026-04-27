@@ -6,35 +6,33 @@
 
 Tenho experiência com organização e análise de dados, monitoramento de indicadores e apoio à tomada de decisão baseada em dados.
 
-</div>
+---
 
 ## 📂 Projetos em Destaque
 
-🔹 Dashboard de E-commerce — Power BI
+🔹 **Dashboard de E-commerce — Power BI**
 
-Análise de receita, pedidos, ticket médio e avaliação
-Identificação de produtos e categorias mais rentáveis
-Criação de visão executiva para apoio à tomada de decisão
+- Análise de receita, pedidos, ticket médio e avaliação  
+- Identificação de produtos e categorias mais rentáveis  
+- Criação de visão executiva para apoio à tomada de decisão  
 
-🔗 Acesse o projeto:
-https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis
+🔗 Acesse o projeto:  
+https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis  
 
-</div>
-</div> 
+---
 
-🔹 Personal Finance Data Pipeline & Dashboard
+🔹 **Personal Finance Data Pipeline & Dashboard**
 
-Pipeline completo de dados (Python + Pandas)
-Tratamento, análise e visualização de dados financeiros
-Dashboard interativo em HTML
+- Pipeline completo de dados (Python + Pandas)  
+- Tratamento, análise e visualização de dados financeiros  
+- Dashboard interativo em HTML  
 
-🔗 https://github.com/oleorezende/personal-finance-data-pipeline
+🔗 https://github.com/oleorezende/personal-finance-data-pipeline  
 
-</div>
+---
 
 ## 💻 Linguagens e Ferramentas
 
-<!-- skill -->
 <table>
 <tr>
   <td align="center" width="90">
@@ -51,18 +49,24 @@ Dashboard interativo em HTML
     <img src="./icon/pandas.png" height="45"/>
     <br>Pandas
   </td>
+
   <td align="center" width="90">
     <img src="./icon/power-bi1.png" height="45"/>
     <br>Power BI
   </td>
-  
 </tr>
 </table>
 
+---
 
-##
+## 📫 Contato
 
 <div> 
-<a href = "mailto:engleonardorezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/oleonardorezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:engleonardorezende@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/oleonardorezende/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 </div>
