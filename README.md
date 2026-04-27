@@ -19,6 +19,8 @@ Criação de visão executiva para apoio à tomada de decisão
 🔗 Acesse o projeto:
 https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis
 
+</div>
+
 🔹 Personal Finance Data Pipeline & Dashboard
 
 Pipeline completo de dados (Python + Pandas)
