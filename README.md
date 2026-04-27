@@ -19,6 +19,14 @@ Criação de visão executiva para apoio à tomada de decisão
 🔗 Acesse o projeto:
 https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis
 
+🔹 Personal Finance Data Pipeline & Dashboard
+
+Pipeline completo de dados (Python + Pandas)
+Tratamento, análise e visualização de dados financeiros
+Dashboard interativo em HTML
+
+🔗 https://github.com/oleorezende/personal-finance-data-pipeline
+
 </div>
 
 ## 💻 Linguagens e Ferramentas
