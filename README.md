@@ -54,6 +54,17 @@ https://github.com/oleorezende/projeto-ecommerce-powerbi-analysis
     <img src="./icon/power-bi1.png" height="45"/>
     <br>Power BI
   </td>
+
+  <td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <br>Git
+</td>
+
+<td align="center" width="90">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="45"/>
+  <br>Excel
+</td>
+
 </tr>
 </table>
 
