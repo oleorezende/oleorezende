@@ -72,6 +72,10 @@ https://github.com/oleorezende/personal-finance-data-pipeline
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
     <br>CSS
   </td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+    <br>JavaScript
+  </td>
 </tr>
 </table>
 
