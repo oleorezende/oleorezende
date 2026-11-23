@@ -41,7 +41,7 @@ https://github.com/oleorezende/personal-finance-data-pipeline
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
     <br>Python
   </td>
   <td align="center" width="90">
